@@ -14,7 +14,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.nuclearfarts.morepotions.Init"
+			"net.mrlolf.morepotions.Init"
 		]
 	},
 	"mixins": [
