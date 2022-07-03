@@ -1,16 +1,16 @@
 {
 	"schemaVersion": 1,
 	"id": "morepotions",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"name": "More Potions",
 	"description": "Makes every potion effect brewable!",
 	"authors": [
-		"NuclearFarts"
+		"MrLoLf"
 	],
 	"contact": {
-		"sources": "https://github.com/nuclearfarts/more-potions"
+		"sources": "https://github.com/MrLoLf/more-potions"
 	},
-	"license": "LGPL v3",
+	"license": "MIT",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
