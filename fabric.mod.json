@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "morepotions",
+	"version": "1.0.2",
+	"name": "More Potions",
+	"description": "Makes every potion effect brewable!",
+	"authors": [
+		"MrLoLf"
+		"bvhfve"
+	],
+	"contact": {
+		"sources": "https://github.com/MrLoLf/more-potions"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mrlolf.morepotions.Init"
+		]
+	},
+	"mixins": [
+		"morepotions.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.9",
+		"fabric": "*",
+		"minecraft": "~1.19",
+		"java": ">=17"
+	}
+}
